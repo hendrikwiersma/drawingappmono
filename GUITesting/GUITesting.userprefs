@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="GUITesting/DrawingAppMono.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GUITesting/Window.cs">
+    <Files>
+      <File FileName="GUITesting/Program.cs" Line="21" Column="21" />
+      <File FileName="GUITesting/Window.cs" Line="33" Column="33" />
+      <File FileName="GUITesting/gtk-gui/GUITesting.Window.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
