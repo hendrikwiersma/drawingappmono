@@ -1,9 +1,9 @@
 ﻿<Properties StartupItem="GUITesting/DrawingAppMono.csproj" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GUITesting/Window.cs">
     <Files>
-      <File FileName="GUITesting/Program.cs" Line="1" Column="1" />
-      <File FileName="GUITesting/Window.cs" Line="4" Column="4" />
+      <File FileName="GUITesting/Program.cs" Line="23" Column="23" />
+      <File FileName="GUITesting/Window.cs" Line="25" Column="25" />
       <File FileName="GUITesting/gtk-gui/GUITesting.Window.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>

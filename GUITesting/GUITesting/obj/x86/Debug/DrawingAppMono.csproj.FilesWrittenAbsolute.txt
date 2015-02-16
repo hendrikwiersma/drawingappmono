@@ -4,3 +4,9 @@
 /home/gyrth/GUITesting/GUITesting/bin/Debug/GUITesting.exe
 /home/gyrth/GUITesting/GUITesting/obj/x86/Debug/GUITesting.exe
 /home/gyrth/GUITesting/GUITesting/obj/x86/Debug/GUITesting.exe.mdb
+/home/gyrth/Projects/GUITesting/GUITesting/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gyrth/Projects/GUITesting/GUITesting/obj/x86/Debug/GUITesting.gtk-gui.gui.stetic
+/home/gyrth/Projects/GUITesting/GUITesting/bin/Debug/GUITesting.exe.mdb
+/home/gyrth/Projects/GUITesting/GUITesting/bin/Debug/GUITesting.exe
+/home/gyrth/Projects/GUITesting/GUITesting/obj/x86/Debug/GUITesting.exe
+/home/gyrth/Projects/GUITesting/GUITesting/obj/x86/Debug/GUITesting.exe.mdb
